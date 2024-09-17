@@ -1,4 +1,4 @@
-module github.com/olman99/customers-api
+module github.com/olmandaniel/customers.api
 
 go 1.22.6
 
