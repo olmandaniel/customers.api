@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/olman99/customers-api/models"
-	"github.com/olman99/customers-api/utils"
+	"github.com/olmandaniel/customers.api/models"
+	"github.com/olmandaniel/customers.api/utils"
 )
 
 func ValidatorCustomer(customer models.Customer) (bool, error) {

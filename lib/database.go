@@ -1,7 +1,7 @@
 package lib
 
 import (
-	"github.com/olman99/customers-api/models"
+	"github.com/olmandaniel/customers.api/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/olman99/customers-api/lib"
-	"github.com/olman99/customers-api/models"
-	"github.com/olman99/customers-api/utils"
-	"github.com/olman99/customers-api/validators"
+	"github.com/olmandaniel/customers.api/lib"
+	"github.com/olmandaniel/customers.api/models"
+	"github.com/olmandaniel/customers.api/utils"
+	"github.com/olmandaniel/customers.api/validators"
 )
 
 func main() {
